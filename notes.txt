@@ -1,0 +1,2 @@
+- issue with latest version of auto prefixer after create-react-app
+do npm install autoprefixer@9.8.0 to fix
